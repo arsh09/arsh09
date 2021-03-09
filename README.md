@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello, 👋
+  
 
 - 🔭 I’m currently working on ... a mobole base with 7 DoF robotics arm and 7 DoF robotic arm with head pan/tilt, ROS tutorials for my YouTube, CapnoTrainer software
 - 🌱 I’m currently learning ... NodeJS
