@@ -1,7 +1,7 @@
 ### Hello, 👋
   
 
-- 🔭 I’m currently working on a mobole base with 7 DoF robotics arm  with a torso, head-pan/tilt joints, ROS tutorials for my YouTube, CapnoTrainer software
+- 🔭 I’m currently working on a mobile base with 7 DoF robotics arm  with a torso, head-pan/tilt joints, ROS tutorials for my YouTube, CapnoTrainer software
 - 🌱 I’m currently learning NodeJS and literally anything I find interesting.
 - 👯 I’m looking to collaborate on ROS2
 - 🤔 I’m looking for help with ROS1
