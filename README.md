@@ -8,4 +8,9 @@
 - 💬 Ask me about Robotics & Control System
 - 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UCHe1VhUtqLBGYHmPAzw9I_w/featured), [Email](muhammadarshad0910@gmail.com)
 - 😄 Pronouns: He/Him/His
--->
+
+
+---
+
+
+[![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsh09)](https://github.com/anuraghazra/github-readme-stats)
