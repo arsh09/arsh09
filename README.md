@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with ROS2, Advance C++ concept. 
 - 💬 Ask me about Robotics & Control System, sitcoms.
 - 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UCHe1VhUtqLBGYHmPAzw9I_w/featured), [Email](muhammadarshad0910@gmail.com)
-- 😄 Pronouns: He/Him/His
 
 
 ---
