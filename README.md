@@ -14,11 +14,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Debugging ROS MoveiIt packages and MoveIt command interface](https://www.youtube.com/watch?v=6anw14IjQtQ)
 - [Joint trajectory controller in ROS with Python and RRRbot](https://www.youtube.com/watch?v=BmLdjLNJHoY)
 - [Simulating Industrial Robotic Arm with ROS - Integrating MoveIt, Robot State Publisher, TF - Part II](https://www.youtube.com/watch?v=NskD8Em5cTM)
 - [Kuka IIWA - Franka Teleoperation Control](https://www.youtube.com/watch?v=E8T6bkqEYuI)
 - [Simulating Industrial Robotic Arm with ROS - Integrating MoveIt - Part I](https://www.youtube.com/watch?v=sMwOprAi4Mg)
-- [Control industrial arm using ROS control and Gazebo ROS control - Part II](https://www.youtube.com/watch?v=JAhr6KLcQ5o)
 <!-- YOUTUBE:END -->
 
 ---
