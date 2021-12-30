@@ -2,9 +2,9 @@
   
 
 - 🔭 I’m currently working on a mobile base with 7 DoF robotics arm  with a torso, head-pan/tilt joints, ROS tutorials for my YouTube, CapnoTrainer software
-- 🌱 I’m currently learning NodeJS and literally anything I find interesting.
-- 👯 I’m looking to collaborate on ROS1/2
-- 🤔 I’m looking for help with ROS2, Advance C++ concept. 
+- 🌱 I’m currently learning NodeJS, React, React Native and literally anything I find interesting.
+- 👯 I’m looking to collaborate on ROS1/2.
+- 🤔 I’m looking for help with ROS2, Advance C++ concept.
 - 💬 Ask me about Robotics & Control System, sitcoms.
 - 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UCHe1VhUtqLBGYHmPAzw9I_w/featured), [Email](muhammadarshad0910@gmail.com)
 
