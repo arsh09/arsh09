@@ -1,4 +1,5 @@
-### Hello 👋, I am Arshad. I am extremely bored most of the time, slightly curious and somewhat smart so I pick up random projects and leave them halfway through (once the fun part is over). 
+### Hello 👋, I am Arshad. 
+##### I am extremely bored most of the time, slightly curious and somewhat smart so I pick up random projects and leave them halfway through (once the fun part is over). 
   
 
 <!-- - 🔭 I’m currently working on ROS-1 tutorials for my YouTube, CapnoTrainer software besides my day-job.
